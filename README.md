@@ -1,2 +1,10 @@
-# quantization-aware-sysid
-Code for: Data to Certificate: Guaranteed Cost Control with Quantization-Aware System Identification (ACC 2026)
+# Quantization-Aware System Identification and Guaranteed Cost Control
+
+Code for the paper:
+
+**"Data to Certificate: Guaranteed Cost Control with Quantization-Aware 
+System Identification"**  
+S. Ataei, D. Maity, D. Goswami  
+American Control Conference (ACC), 2026
+
+Code will be uploaded upon publication.
